@@ -1,6 +1,5 @@
 # Exercícios - POO Javascript
-Exercício usando conceitos de POO em Javascript
-Professor Flávio Mota - Desenvolvimento de Sistemas
+Exercício usando conceitos de POO em Javascript -> Professor Flávio Mota / Desenvolvimento de Sistemas
  
  📌 Objetivos
  
