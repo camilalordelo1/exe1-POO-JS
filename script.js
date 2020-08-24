@@ -35,7 +35,7 @@
         }
 
         pagamento(){
-            this.valida = prompt("Qual combustível quer abastecer? 1 - Dinheiro / 2 - Cartão");
+            this.valida = prompt("Qual forma de pagamento? 1 - Dinheiro / 2 - Cartão");
             if (this.valida == 1){
                 this.pag = 'Dinheiro';
             } else if (this.valida == 2){
