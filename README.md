@@ -1,2 +1,2 @@
-# exe1-POO-JS
+# exe-POO-JS
 Atividade 1 - Estudando conceitos de POO em JS
