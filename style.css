@@ -1,0 +1,26 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+footer {
+    color: white;
+}
+
+.jumbotron{
+    background-color: rgb(91, 114, 247);
+    color: white;
+}
+
+.roxo {
+    background-color: rgb(91, 114, 247);
+}
+.roxoM {
+    background-color: rgb(136, 153, 248);
+}
+.roxoMTitle {
+    color: rgb(136, 153, 248);
+}
+
+#res1, #res2 {
+    color: black;
+}
