@@ -9,8 +9,10 @@ Exercício usando conceitos de POO em Javascript -> Professor Flávio Mota / Des
 **Atividade 02**
 > Crie uma classe animal com os atributos e métodos gerais para as subclasses, crie uma classe cachorro herdando de animal e faça-o latir. Crie uma classe gato herdando de animal e faça-o miar. Faça os dois animais caminharem mostrando o número de passos de cada um. Observação: os animais só podem andar se estiverem alimentados, para isso crie um atributo para fazer essa condição, A cada 100 passos o animal deve ser alimentado, caso contrário ele não consegue andar. 
 
- 📚 Framework
+ 📚 Ferramentas
  
-  	Bootstrap
-
-    
+ - HTML
+ - CSS
+ - Bootstrap
+ - JavaScript
+   
