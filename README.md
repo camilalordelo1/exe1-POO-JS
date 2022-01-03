@@ -17,4 +17,4 @@ Exercício usando conceitos de POO em Javascript -> Professor Flávio Mota / Des
  - JavaScript
    
 <hr>
-Disponível para visualização [aqui](https://camilalordelo1.github.io/exe1-POO-JS/)
+Disponível para visualização aqui: https://camilalordelo1.github.io/exe1-POO-JS/
