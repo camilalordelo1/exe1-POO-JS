@@ -16,3 +16,5 @@ Exercício usando conceitos de POO em Javascript -> Professor Flávio Mota / Des
  - Bootstrap
  - JavaScript
    
+<hr>
+Disponível para visualização [aqui](https://camilalordelo1.github.io/exe1-POO-JS/)
